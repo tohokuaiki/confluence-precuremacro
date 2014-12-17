@@ -1,0 +1,190 @@
+div.precure-heading h1,
+div.precure-heading h2,
+div.precure-heading h3,
+div.precure-heading h4,
+div.precure-heading h5,
+div.precure-heading h6{
+	padding: 28px 0 28px 85px;
+	background-repeat: no-repeat;
+	background-position: left center;
+	background-image: url(http://www.toei-anim.co.jp/ptr/precure/images/news/140421_2_b.jpg);
+	
+	
+}
+div.precure-heading h1 span,
+div.precure-heading h2 span,
+div.precure-heading h3 span,
+div.precure-heading h4 span,
+div.precure-heading h5 span,
+div.precure-heading h6 span{
+	padding: 30px 0;
+	background-color: #fff;
+}
+/* MaxHeart */
+div.precure-heading.ph-MaxHeart h1{
+	background-position: 0 0;
+}
+div.precure-heading.ph-MaxHeart h2{
+	background-position: -100px 0;
+}
+div.precure-heading.ph-MaxHeart h3{
+	background-position: -207px -6px;
+}
+div.precure-heading.ph-MaxHeart h4,
+div.precure-heading.ph-MaxHeart h5{
+	padding-left:10px; background-image: none;
+}
+
+/* SplashStar */
+div.precure-heading.ph-SplashStar h1{
+	background-position: -315px 0;
+}
+div.precure-heading.ph-SplashStar h2{
+	background-position: -422px 0;
+}
+div.precure-heading.ph-SplashStar h3,
+div.precure-heading.ph-SplashStar h4,
+div.precure-heading.ph-SplashStar h5{
+	padding-left:10px; background-image: none;
+}
+
+/* 5GoGo */
+div.precure-heading.ph-5GoGo h1{
+	background-position: 0px -115px;
+}
+div.precure-heading.ph-5GoGo h2{
+	background-position: -100px -115px
+}
+div.precure-heading.ph-5GoGo h3{
+	background-position: -208px -120px;
+}
+div.precure-heading.ph-5GoGo h4{
+	background-position: -316px -122px;
+}
+div.precure-heading.ph-5GoGo h5{
+	background-position: -420px -122px;
+}
+div.precure-heading.ph-5GoGo h6{
+	background-position: 0px -238px;
+}
+div.precure-heading.ph-5GoGo h6 span{
+	padding: 32px 0;
+}
+
+
+/* Fresh */
+div.precure-heading.ph-Fresh h1{
+	background-position: -100px -235px;
+}
+div.precure-heading.ph-Fresh h2{
+	background-position: -208px -235px;
+}
+div.precure-heading.ph-Fresh h3{
+	background-position:-315px -235px;
+}
+div.precure-heading.ph-Fresh h4{
+	background-position: -422px -238px;
+}
+div.precure-heading.ph-Fresh h5,
+div.precure-heading.ph-Fresh h6{
+	padding-left:10px; background-image: none;
+}
+
+/* HeartCatch */
+div.precure-heading.ph-HeartCatch h1{
+	background-position: 0px -360px;
+}
+div.precure-heading.ph-HeartCatch h2{
+	background-position: -100px -360px;
+}
+div.precure-heading.ph-HeartCatch h3{
+	background-position: -208px -360px;
+}
+div.precure-heading.ph-HeartCatch h4{
+	background-position: -316px -365px;
+}
+div.precure-heading.ph-HeartCatch h5,
+div.precure-heading.ph-HeartCatch h6{
+	padding-left:10px; background-image: none;
+}
+
+/* Suite */
+div.precure-heading.ph-Suite h1{
+	background-position: -420px -360px;
+}
+div.precure-heading.ph-Suite h2{
+	background-position: 0px -474px;
+}
+div.precure-heading.ph-Suite h3{
+	background-position: -100px -477px;
+}
+div.precure-heading.ph-Suite h4{
+	background-position: -205px -480px;
+}
+div.precure-heading.ph-Suite h5,
+div.precure-heading.ph-Suite h6{
+	padding-left:10px; background-image: none;
+}
+
+/* Smile */
+div.precure-heading.ph-Smile h1{
+	background-position:-310px -480px;
+}
+div.precure-heading.ph-Smile h2{
+	background-position: -420px -480px;
+}
+div.precure-heading.ph-Smile h3{
+	background-position: -0px -594px;
+}
+div.precure-heading.ph-Smile h4{
+	background-position: -96px -595px;
+}
+div.precure-heading.ph-Smile h5{
+	background-position: -205px -595px;
+}
+div.precure-heading.ph-Smile h6{
+	padding-left:10px; background-image: none;
+}
+
+/* DokiDoki */
+div.precure-heading.ph-DokiDoki h1{
+	background-position: -315px -590px;
+}
+div.precure-heading.ph-DokiDoki h2{
+	background-position: -422px -590px;
+}
+div.precure-heading.ph-DokiDoki h3{
+	background-position: 0 -718px
+}
+div.precure-heading.ph-DokiDoki h4{
+	background-position: -100px -719px;
+}
+div.precure-heading.ph-DokiDoki h5{
+	background-position: -205px -720px;
+}
+div.precure-heading.ph-DokiDoki h6{
+	padding-left:10px; background-image: none;
+}
+
+/* HappinessCharge */
+div.precure-heading.ph-HappinessCharge h1,
+div.precure-heading.ph-HappinessCharge h2,
+div.precure-heading.ph-HappinessCharge h3,
+div.precure-heading.ph-HappinessCharge h4,
+div.precure-heading.ph-HappinessCharge h5,
+div.precure-heading.ph-HappinessCharge h6 {
+	background-size: 35%;
+}
+div.precure-heading.ph-HappinessCharge h1{
+	background-position: -30px -470px;
+}
+div.precure-heading.ph-HappinessCharge h2{
+	background-position: -112px -470px;
+}
+div.precure-heading.ph-HappinessCharge h3{
+	background-position: -195px -470px;
+}
+div.precure-heading.ph-HappinessCharge h4,
+div.precure-heading.ph-HappinessCharge h5{
+	padding-left:10px; background-image: none;
+}
